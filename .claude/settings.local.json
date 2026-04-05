@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git -C \"D:/LEARN AND DEV/AI Agent lerning/updagrade-github\" status)",
-      "WebFetch(domain:github.com)"
-    ]
-  }
-}
