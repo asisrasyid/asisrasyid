@@ -6,13 +6,13 @@ Building practical tools — and slowly teaching them to think.
 Currently deep in **AI Agent architecture** and **LLM optimization**.  
 Ask me anything about it, I love talking about this stuff.
 
-📬 muhammadasisrasyid@gmail.com
+📬 **muhammadazisrasyid@gmail.com** · 🌐 **[muhammadazis.vercel.app](https://personalportofolioazis.vercel.app/)**
 
 ---
 
 ### What I work with
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,py,cs,dotnet,postgres,fastapi,vite,tailwind&theme=light" />
+<img src="https://skillicons.dev/icons?i=CS,ts,react,nextjs,py,cs,dotnet,postgres,fastapi,vite,tailwind&theme=light" />
 
 ---
 
