@@ -35,10 +35,7 @@ Minimalist productivity app with Google Apps Script sync.
 
 ### Stats
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=asisrasyid&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0969da&icon_color=0969da" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asisrasyid&layout=compact&hide_border=true&theme=default&title_color=0969da" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asisrasyid&theme=github" />
 
 ---
 
